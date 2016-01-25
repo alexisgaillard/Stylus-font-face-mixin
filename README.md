@@ -31,10 +31,15 @@ Will output:
 Complete list of arguments:
 
 fontP: Path to fonts folder !required
+
 fileN: Files name without extension !required
+
 fontF: font-family !required
+
 fontW: font-weight
+
 fontS: font-style
+
 formats: font formats woff2 woff truetype eot
 
 Support with all format enabled (default):
