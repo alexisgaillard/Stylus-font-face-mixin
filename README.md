@@ -38,6 +38,7 @@ fontS: font-style
 formats: font formats woff2 woff truetype eot
 
 Support with all format enabled (default):
+
 Chrome 3.5+, Safari 3+, Firefox 3.5+, Opera 10.1+, IE 7+ (eot support IE9 Compat Modes), Android 2.2+, iOs 4.3+
 
 ## Credits
