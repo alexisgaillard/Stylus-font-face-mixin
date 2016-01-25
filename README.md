@@ -17,7 +17,9 @@ Will output:
 @font-face {
   font-family: "Lato";
   src: url("../font/lato-regular.eot");
-  src: url("../font/lato-regular.woff2") format("woff2"), url("../font/lato-regular.woff") format("woff"), url("../font/lato-regular.ttf") format("truetype");
+  src: url("../font/lato-regular.woff2") format("woff2"), 
+       url("../font/lato-regular.woff") format("woff"), 
+       url("../font/lato-regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
